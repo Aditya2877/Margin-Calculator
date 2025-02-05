@@ -5,7 +5,7 @@
 The **Margin Calculator** is a command-line application written in C that allows users to calculate profit margins based on cost and selling price. This tool is useful for businesses and individuals who need to determine the profitability of products or services.
 
 ## Features
-
+- Change the one currency to another
 - Calculate profit margin percentage.
 - Calculate markup percentage.
 - Simple and intuitive command-line interface.
